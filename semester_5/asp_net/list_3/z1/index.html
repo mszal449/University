@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic HTML File</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <h2>This is a form for GET method</h2>
+
+    <a href="#" onClick="submitFromPost()">Submit POST request</a>
+    <form id="postForm" action="strona.aspx" method="post" style="display: none;">
+        <input type="text" name="p1" value="v1">
+    </form>
+
+
+    <h2>This is a form for POST method</h2>
+    <form>
+        <input type="button" value="Submit GET request" onclick="submitFromGet()">
+    </form>
+
+    <script>
+        function submitFromPost() {
+            document.getElementById('postForm').submit();
+        }
+
+        function submitFromGet() {
+            const params = new URLSearchParams({
+                p1: 'v1',
+            });
+            window.location.href = `strona.aspx?${params}`;
+        }
+    </script>
+</body>
+</html>

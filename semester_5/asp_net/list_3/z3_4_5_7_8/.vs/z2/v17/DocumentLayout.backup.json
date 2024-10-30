@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mszal\\OneDrive\\Documents\\Onedrive\\5_semestr\\asp\\l3\\z2\\z2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCB4841-70EB-4992-911D-25D126F6DEB2}|z3\\z3.csproj|c:\\users\\mszal\\onedrive\\documents\\onedrive\\5_semestr\\asp\\l3\\z2\\z2\\z3\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCB4841-70EB-4992-911D-25D126F6DEB2}|z3\\z3.csproj|solutionrelative:z3\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCB4841-70EB-4992-911D-25D126F6DEB2}|z3\\z3.csproj|C:\\Users\\mszal\\OneDrive\\Documents\\Onedrive\\5_semestr\\asp\\l3\\z2\\z2\\z3\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FCCB4841-70EB-4992-911D-25D126F6DEB2}|z3\\z3.csproj|solutionrelative:z3\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mszal\\OneDrive\\Documents\\Onedrive\\5_semestr\\asp\\l3\\z2\\z2\\z3\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "z3\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\mszal\\OneDrive\\Documents\\Onedrive\\5_semestr\\asp\\l3\\z2\\z2\\z3\\WebForm1.aspx.cs",
+              "RelativeToolTip": "z3\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAABIvRAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:42:16.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\mszal\\OneDrive\\Documents\\Onedrive\\5_semestr\\asp\\l3\\z2\\z2\\z3\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "z3\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\mszal\\OneDrive\\Documents\\Onedrive\\5_semestr\\asp\\l3\\z2\\z2\\z3\\WebForm1.aspx",
+              "RelativeToolTip": "z3\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-28T10:42:13.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
